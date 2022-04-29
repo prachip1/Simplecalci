@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Simplecalci/static/css/main.2f41279c.chunk.css",
+    "main.js": "/Simplecalci/static/js/main.d8ac9e67.chunk.js",
+    "main.js.map": "/Simplecalci/static/js/main.d8ac9e67.chunk.js.map",
+    "runtime-main.js": "/Simplecalci/static/js/runtime-main.704bbaa8.js",
+    "runtime-main.js.map": "/Simplecalci/static/js/runtime-main.704bbaa8.js.map",
+    "static/js/2.46fef388.chunk.js": "/Simplecalci/static/js/2.46fef388.chunk.js",
+    "static/js/2.46fef388.chunk.js.map": "/Simplecalci/static/js/2.46fef388.chunk.js.map",
+    "index.html": "/Simplecalci/index.html",
+    "static/css/main.2f41279c.chunk.css.map": "/Simplecalci/static/css/main.2f41279c.chunk.css.map",
+    "static/js/2.46fef388.chunk.js.LICENSE.txt": "/Simplecalci/static/js/2.46fef388.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.704bbaa8.js",
+    "static/js/2.46fef388.chunk.js",
+    "static/css/main.2f41279c.chunk.css",
+    "static/js/main.d8ac9e67.chunk.js"
+  ]
+}
