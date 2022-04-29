@@ -50,7 +50,7 @@ function App() {
 		
 		<div className="App">
 		   <div className="thetitle">
-			   <h2>Coded In Reactjs.</h2>
+			   <h2>Simple calculator.</h2>
 		   </div>
 			<div className="calculator">
 			
